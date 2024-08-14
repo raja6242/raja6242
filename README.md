@@ -19,7 +19,7 @@ I'm a highly motivated and innovative **Data Analyst** with a certification from
 - **Open Source Projects**: Contributing to projects that leverage my skills in data analysis and machine learning.
 
 ## 📫 How to reach me...
-- **Email**: raja6242@example.com
+- **Email**: rajapnp370@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/raja-babu-kumar/)
 - **GitHub**: [@raja6242](https://github.com/raja6242)
 
